@@ -13,7 +13,7 @@ def dcf(cash_flow, growth_r, discount_r, t):
 cash_flow = 100
 t = 10
 
-## create two arrays of growth rates and discount rates. Growth rates are 
+## create two arrays of growth rates and discount rates
 growth_rates = np.array([])
 discount_rates = np.array([])
 t_values = 5
